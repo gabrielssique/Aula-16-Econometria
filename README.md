@@ -1,1 +1,2 @@
-# Aula-16-Econometria
+# aula-16
+Dynamic Trading Rights 
